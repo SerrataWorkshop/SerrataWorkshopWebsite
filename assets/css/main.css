@@ -1160,10 +1160,13 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/saw2.jpg");
+			/* background-image: url("../../images/saw2.jpg"); */
+			background-image: url("../../images/close_transparent.png");
+			
 			background-position: center bottom;
 			background-color: #ffffff;
-			background-size: auto 33vh;
+			/* background-size: auto 33vh; */
+			background-size: auto 50vh;
 			/* background-position:  center calc(100% + 500px);
 			background-color: #ffffff;
 			background-size: cover; */
